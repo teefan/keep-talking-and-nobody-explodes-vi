@@ -48,12 +48,12 @@
    x="115.249229"
    y="10.537716"
    id="text2872"
-   style="font-size:22px;font-family:Special Elite, Sans-Serif;">How to Interpret</text>
+   style="font-size:22px;font-family:Courier New, Sans-Serif;">Cách Phiên dịch</text>
 
 <text
    x="54.051781"
    y="38.502422"
-   style="font-size:10px;font-family:Special Elite, Sans-Serif"
+   style="font-size:10px;font-family:Courier New, Sans-Serif"
    id="text3411"><tspan
      x="54.051781"
      y="38.502422"
@@ -70,7 +70,7 @@
 <text
    x="54.051781"
    y="38.502422"
-   style="font-size:10px;font-family:Special Elite, Sans-Serif"
+   style="font-size:10px;font-family:Courier New, Sans-Serif"
    id="text3401"><tspan
      x="54.051781"
      y="38.502422"
@@ -78,7 +78,7 @@
 
 <text
    xml:space="preserve"
-   style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Special Elite, Sans-Serif"
+   style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New, Sans-Serif"
    x="40.91169"
    y="55.326767"
    id="text3464"
@@ -87,19 +87,23 @@
      sodipodi:role="line"
      id="tspan3466"
      x="40.91169"
-     y="55.326767">1. A short flash represents a dot.</tspan><tspan
+     y="55.326767">1. Một chớp ngắn tượng trưng một chấm.</tspan><tspan
      sodipodi:role="line"
      x="40.91169"
      y="75.076767"
-     id="tspan3468">2. A long flash represents a dash.</tspan><tspan
+     id="tspan3468">2. Một chớp dài tượng trưng một gạch.</tspan><tspan
      sodipodi:role="line"
      x="40.91169"
      y="95.826767"
-     id="tspan3470">3. There is a long gap between letters.</tspan><tspan
+     id="tspan3470">3. Có một quãng ngắt dài giữa các ký tự.</tspan><tspan
      sodipodi:role="line"
      x="40.91169"
      y="115.576767"
-     id="tspan3472">4. There is a very long gap before the word repeats.</tspan></text>
+     id="tspan3472">4. Có một quãng ngắt rất dài trước khi cả từ</tspan><tspan
+     sodipodi:role="line"
+     x="40.91169"
+     y="135.326767"
+     id="tspan3474">   được lặp lại.</tspan></text>
 </g>
 <g
    transform="translate(-3.8164787,0)"
@@ -247,42 +251,42 @@
    y="130.67398"
    id="text3604"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">U</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">U</text>
 
 <text
    x="231.74756"
    y="149.10829"
    id="text3608"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">V</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">V</text>
 
 <text
    x="229.15523"
    y="167.31757"
    id="text3612"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">W</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">W</text>
 
 <text
    x="231.73405"
    y="185.97691"
    id="text3616"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">X</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">X</text>
 
 <text
    x="231.76105"
    y="204.41122"
    id="text3620"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">Y</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">Y</text>
 
 <text
    x="232.27863"
    y="222.84554"
    id="text3624"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">Z</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">Z</text>
 
 </g>
 </g>
@@ -649,140 +653,140 @@
    y="130.67398"
    id="text3309"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">A</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">A</text>
 
 <text
    x="16.953625"
    y="149.10829"
    id="text3344"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">B</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">B</text>
 
 <text
    x="16.535072"
    y="167.31757"
    id="text3350"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">C</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">C</text>
 
 <text
    x="16.409058"
    y="185.97691"
    id="text3356"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">D</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">D</text>
 
 <text
    x="16.904119"
    y="204.41122"
    id="text3360"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">E</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">E</text>
 
 <text
    x="17.322672"
    y="222.84554"
    id="text3364"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">F</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">F</text>
 
 <text
    x="16.202032"
    y="241.05481"
    id="text3368"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">G</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">G</text>
 
 <text
    x="16.634085"
    y="259.71414"
    id="text3372"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">H</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">H</text>
 
 <text
    x="20.693594"
    y="278.14847"
    id="text3376"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">I</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">I</text>
 
 <text
    x="19.145401"
    y="296.58276"
    id="text3380"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">J</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">J</text>
 
 <text
    x="16.481066"
    y="315.01709"
    id="text3384"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">K</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">K</text>
 
 <text
    x="17.813232"
    y="333.45139"
    id="text3388"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">L</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">L</text>
 
 <text
    x="15.621459"
    y="351.88571"
    id="text3392"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">M</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">M</text>
 
 <text
    x="16.683592"
    y="370.32001"
    id="text3396"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">N</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">N</text>
 
 <text
    x="16.085016"
    y="388.75433"
    id="text3400"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">O</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">O</text>
 
 <text
    x="16.058014"
    y="425.62296"
    id="text3404"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">Q</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">Q</text>
 
 <text
    x="16.82761"
    y="407.18866"
    id="text3408"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">P</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">P</text>
 
 <text
    x="16.022009"
    y="444.05728"
    id="text3536"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">R</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">R</text>
 
 <text
    x="17.205658"
    y="462.49158"
    id="text3540"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">S</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">S</text>
 
 <text
    x="17.62421"
    y="480.9259"
    id="text3544"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">T</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">T</text>
 
 </g>
 <use
@@ -1262,70 +1266,70 @@
    y="250.49699"
    id="text2889"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">1</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">1</text>
 
 <text
    x="231.284"
    y="268.9313"
    id="text2893"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">2</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">2</text>
 
 <text
    x="231.09947"
    y="287.14056"
    id="text2897"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">3</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">3</text>
 
 <text
    x="231.39651"
    y="305.79993"
    id="text2901"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">4</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">4</text>
 
 <text
    x="231.05447"
    y="324.23422"
    id="text2905"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">5</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">5</text>
 
 <text
    x="231.14449"
    y="342.66855"
    id="text2909"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">6</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">6</text>
 
 <text
    x="231.04997"
    y="360.87781"
    id="text2913"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">7</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">7</text>
 
 <text
    x="231.09947"
    y="379.53714"
    id="text2917"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">8</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">8</text>
 
 <text
    x="231.09048"
    y="397.97147"
    id="text2921"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">9</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">9</text>
 
 <text
    x="231.12648"
    y="416.40576"
    id="text2925"
    xml:space="preserve"
-   style="font-size:18px;font-family:Special Elite, Sans-Serif">0</text>
+   style="font-size:18px;font-family:Courier New, Sans-Serif">0</text>
 
 </g>
 </g>
