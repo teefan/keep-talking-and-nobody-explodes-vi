@@ -224,7 +224,7 @@ td, th {
   margin: 1em auto;
   padding: 0;
   border: 1px solid #222; /* Safely using px because exists outside layout of page content */
-  box-shadow: #222 0.0em 0em 0.6em;
+  box-shadow: #222 0.0em 0.0em 0.6em;
   clear: both;
   background-color: #FFF;
   background-repeat: no-repeat;
@@ -255,7 +255,7 @@ td, th {
 }
 
 .page-content {
-  margin: 0 4em 0; /* = 0.75in ~0.75in 0 at 12pt (1em) */
+  margin: 0 7em 0; /* = 0.75in ~0.75in 0 at 12pt (1em) */
   min-height: 57em; /* Leaving 3em at the bottom for footer (0.75in) */
 }
 
@@ -263,7 +263,7 @@ td, th {
   display: block;
   position: relative;
   height: 0;
-  margin: 0 3em; /* = ~0.5in at 12pt (1em) */
+  margin: 0 4em; /* = ~0.5in at 12pt (1em) */
   padding: 1.5em 0 2em;
 }
 
@@ -494,8 +494,8 @@ td, th {
 }
 
 .maze {
-  width: 15em;
-  height: 15em;
+  width: 12em;
+  height: 12em;
   margin: 1em;
 }
 
@@ -594,7 +594,7 @@ td, th {
   display: inline-table;
   margin-top: 1em;
   margin-bottom: 1em;
-  width: 15.3em;
+  width: 32.0%/* 15.3em */;
   font-size: 0.9em;
 }
 
