@@ -8,3 +8,5 @@ Phiên bản 1
 Mã Xác Nhận: 241
 
 Xem online tại: https://teefan.github.io/keep-talking-and-nobody-explodes-vi/
+
+Tải phiên bản PDF tại: https://github.com/teefan/keep-talking-and-nobody-explodes-vi/releases/download/v1.0.0/keep-talking-and-nobody-explodes-vi-v1.0.0.pdf
