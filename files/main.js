@@ -3,9 +3,9 @@ $(document).ready(function () {
     var $page = $(".page");
     var $noPageCount = $(".no-page-count");
 
-    var pageCount = $page.size();
+    var pageCount = $page.length();
 
-    pageCount -= $noPageCount.size();
+    pageCount -= $noPageCount.length();
 
     var currentPage = 0;
     var currentBG = 1;
