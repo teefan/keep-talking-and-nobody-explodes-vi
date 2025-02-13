@@ -1,6 +1,0 @@
-	<text id="text2872" transform="matrix(1 0 0 1 -648.9624 136.6602)" class="st0 st1">Cách phiên dịch</text>
-	<text transform="matrix(1 0 0 1 -715.3574 167)" class="st0 st2"> </text>
-	<text transform="matrix(1 0 0 1 -733.0883 162.3268)" class="st0 st3">1. Một chớp ngắn tượng trưng một chấm.</text>
-	<text transform="matrix(1 0 0 1 -733.0883 182.0768)" class="st0 st3">2. Một chớp dài tượng trưng một gạch.</text>
-	<text transform="matrix(1 0 0 1 -733.0883 202.8268)" class="st0 st3">3. Có một quãng ngắt dài giữa các ký tự.</text>
-	<text transform="matrix(1 0 0 1 -733.0883 222.5768)" class="st0 st3">4. Có một quãng ngắt rất dài trước khi cả từ được lặp lại.</text>
